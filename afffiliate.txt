@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🔥 Java Burn - Boost Your Metabolism</title>
+  <style>
+    body {
+      background-image: url('https://example.com/java-burn-bg.jpg'); /* Replace with a real background image URL */
+      background-size: cover;
+      background-position: center;
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body onclick="window.location.href='https://youraffiliate.link'">
+  <!-- You can add logos, headlines, etc. here -->
+</body>
+</html>
